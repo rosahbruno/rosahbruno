@@ -1,9 +1,9 @@
 👋 Hi, I’m Bruno!
 
-- 💼 Software Engineer II @ UPMC | Lead Developer @ Precision Studio
+- 💼 Sr Software Engineer @ Branding Brand
 - 🎓 Juniata College
-  - Master's in Data Science (Dec' 21)
-  - Bachelor's In CS (May '18)
+  - MS: Data Science (Dec '21)
+  - BS: Computer Science
 - 📫 rosahbruno@gmail.com
 
 <!---
