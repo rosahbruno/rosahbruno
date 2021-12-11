@@ -2,7 +2,7 @@
 
 - 💼 Sr Software Engineer @ Branding Brand
 - 🎓 Juniata College
-  - MS: Data Science (Dec '21)
+  - MS: Data Science
   - BS: Computer Science
 - 📫 rosahbruno@gmail.com
 
