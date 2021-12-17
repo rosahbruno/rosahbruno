@@ -1,6 +1,6 @@
 👋 Hi, I’m Bruno!
 
-- 💼 Sr Software Engineer @ Branding Brand
+- 💼 Sr Software Engineer [@brandingbrand](https://github.com/brandingbrand)
 - 🎓 Juniata College
   - MS: Data Science
   - BS: Computer Science
