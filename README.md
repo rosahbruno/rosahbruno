@@ -1,6 +1,6 @@
 👋 Hi, I’m Bruno!
 
-- 💼 Sr Software Engineer [@brandingbrand](https://github.com/brandingbrand)
+- 💼 Senior Software Engineer [@mozilla](https://github.com/mozilla)
 - 🎓 Juniata College
   - MS: Data Science
   - BS: Computer Science
